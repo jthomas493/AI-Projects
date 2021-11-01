@@ -1,0 +1,1 @@
+useful for gaining insight into customer opinions once you understand how the customer feels after analysing their comments or reviews you can identify what they like and dislike and build things like recommendation systems for more targeted marketing campaigns for them in this summer will be building a sentiment analysis programme in python 
